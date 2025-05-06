@@ -85,15 +85,10 @@ A global map is generated to show the number of COVID-19 cases per million peopl
    git clone https://github.com/CharlesKJunior/covid-19-global-tracker.git
 Install the required dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Open the Jupyter notebook and run the cells to analyze COVID-19 data:
 
-bash
-Copy
-Edit
 jupyter notebook covid_19_analysis.ipynb
+
 Contributing
 If you would like to contribute to this project, feel free to submit a pull request. Please ensure your code follows the existing style and includes relevant tests.
